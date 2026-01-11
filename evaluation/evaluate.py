@@ -3,7 +3,8 @@ import time
 import matplotlib.pyplot as plt
 from collections import Counter
 
-from utils import qa_chain
+from utils import qa_chain, retriever
+
 
 # -----------------------------
 # Utility functions

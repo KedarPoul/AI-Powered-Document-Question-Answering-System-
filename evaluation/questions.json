@@ -1,0 +1,10 @@
+[
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a subset of artificial intelligence that enables systems to learn from data."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning is a type of machine learning where the model is trained on labeled data."
+  }
+]
